@@ -1,3 +1,3 @@
 # Available
 
-Placed on a publicly accessible archival repository. A DOI or link to this repository along with a unique identifier for the object is provided. 
+Placed on a publicly accessible archival repository. A DOI with a unique identifier for the object is provided. 
